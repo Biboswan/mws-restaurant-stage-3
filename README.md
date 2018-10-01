@@ -1,3 +1,9 @@
+# How to clone this repo including the frontend submodule
+
+```
+git clone --recurse-submodules git@github.com:Biboswan/mws-restaurant-stage-2.git
+```
+
 # Local Development API Server
 ## Usage
 #### Get Restaurants
