@@ -1,0 +1,3 @@
+[submodule "mws-restaurant-stage-1"]
+	path = mws-restaurant-stage-1
+	url = git@github.com:Biboswan/mws-restaurant-stage-1.git
